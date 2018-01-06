@@ -1488,7 +1488,7 @@ def bot(op):
          
         #-------------Fungsi Change Clock Start------------------#
             elif msg.text in ["/change clock"]:
-                n = msg.text.replace("Change clock","")
+                n = msg.text.replace("/change clock","")
                 if len(n.decode("utf-8")) > 13:
                     cl.sendText(msg.to,"changed")
                 else:
@@ -1689,7 +1689,7 @@ def bot(op):
               if msg.from_ in owner:
                 if msg.toType == 2:
                     print "ok"
-                    _name = msg.text.replace("Ready op","")
+                    _name = msg.text.replace("/syndicate","")
                     gs = cl.getGroup(msg.to)
                     gs = ki.getGroup(msg.to)
                     gs = ki2.getGroup(msg.to)
@@ -1825,7 +1825,7 @@ def bot(op):
             #----------------Mid via Tag--------------
             elif "/mid @" in msg.text:
               #if msg.from_ in admin:
-                _name = msg.text.replace("Mid @","")
+                _name = msg.text.replace("/mid @","")
                 _nametarget = _name.rstrip(' ')
                 gs = cl.getGroup(msg.to)
                 for g in gs.members:
