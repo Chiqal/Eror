@@ -20,34 +20,35 @@ print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage ="""     ✍hϵlϼ ͼϴϻϻαͷδ✍
-🔒____________________🔒
-☞ /help                       ☞ /cancel
-☞ /admenu                ☞ /open qr - off
-☞ Gn                           ☞ /ginfo
-☞ Kick                        ☞ /midbot
-☞ /admadd @           ☞ /modeon
-☞ /admremove @    ☞ /modeoff
-☞ /admlist                 ☞ /contact on - off
-☞ /allmid                   ☞ /join on - off
-☞ Allbio                      ☞ /gcancel:
-☞ MyName:               ☞ /leave on - off
-☞ /me                         ☞ /set
-☞ Gift                          ☞ /add on - off
-☞ /invitemeto:           ☞ /jam on - off
-☞ /lurk - /kers            ☞ /in
-☞ /fiv1                        ☞ /out
-☞ /tag                         ☞ /kill
-☞ Copy @ / Backup  ☞ /banall
-☞ /syndicate              ☞ /ban @
-☞ /nk @                      ☞ /bancek
-☞ /mid @                   ☞ /unban @
-☞ /bc                          ☞ /clearban
-☞ /bokep on              ☞ /link bokep
-☞ /respon                  ☞ /sp
-______________________
-S̸͟͞Y̸͟͞N̸͟͞D̸͟͞I̸͟͞C̸͟͞A̸͟͞T̸͟͞E̸͟͞ P̸͟͞R̸͟͞O̸͟͞T̸͟͞E̸͟͞C̸͟͞T̸͟͞
-______________________"""
+helpMessage ="""┠═════════════
+┠  ︻┳═一hϵlϼ ͼϴϻϻαͷδ✍ 
+┠═════════════
+┠ ☞ /tag→/kill→/set
+┠ ☞ /lurk→/kers
+┠ ☞ Copy @→Backup
+┠ ☞ Bot Like→Like emen
+┠ ☞ /admadd @→/admlist
+┠ ☞ /admremove @
+┠ ☞ Creator
+┠ ☞ Share on→off
+┠ ☞ /cancelall
+┠ ☞ MyName:
+┠ ☞ /leave on→off
+┠ ☞ /allmid
+┠ ☞ /invitemeto:
+┠ ☞ /cancel→/gcancel:
+┠ ☞ /open qr→close
+┠ ☞ /add on→off
+┠ ☞ /comment on→off
+┠ ☞ /modeon→off
+┠ ☞ /contact on→off
+┠ ☞ /syndicate→/nk @
+┠ ☞ /unban @→/clearban
+┠ ☞ Banned @→/banall
+┠ ☞ /bancek→Banlist
+┠═════════════
+┠  ◣◢ ՏվղժíϲɑԵҽ ՏҽӀƒ ◣◢
+┠═════════════"""
 
 Setgroup =""" 
     S̸͟͞Y̸͟͞N̸͟͞D̸͟͞I̸͟͞C̸͟͞A̸͟͞T̸͟͞E̸͟͞ P̸͟͞R̸͟͞O̸͟͞T̸͟͞E̸͟͞C̸͟͞T̸͟͞"""
