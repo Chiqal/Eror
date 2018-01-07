@@ -1535,9 +1535,9 @@ def bot(op):
                                 #print rom
                                 chiya += rom[1] + "\n"
 
-                        cl.sendText(msg.to, "Reading%s\n||By :A ChiqaLFV||\n\n>Pelakunya ni coy<\n%s-=CCTV=-\n•Jones\n•Bisulan\n•Picek\n•Jelek\n\nSuee Lu\n[%s]" % (wait2['readMember'][msg.to],chiya,setTime[msg.to]))
+                        cl.sendText(msg.to, "Sider By: ՏվղժíϲɑԵҽ ՏҽӀƒ\n===========================                     %s\n===========================\n\nReader :\n%s\n===========================\nIn the last seen point:\n[%s]\n===========================" % (wait2['readMember'][msg.to],chiya,setTime[msg.to]))
                     else:
-                        cl.sendText(msg.to, "Ketik /lurk\nFor to /kers\nDASAR JABLAY ♪")
+                        cl.sendText(msg.to, "Ketik [/lurk] for [/kers]")
 #-----------------------------------------------
 
 #-----------------------------------------------
