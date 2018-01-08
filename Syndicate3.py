@@ -5,27 +5,27 @@ from LINETCR.lib.curve.ttypes import *
 from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,re,os,subprocess
 cl = LINETCR.LINE()
-cl.login(token="EoiA42rFiHglCV5s3nK1.iU0HVzEKkrCM/Lo3vS4Vaq.6fqAJBbwe56wxfq0RRwr8+yl9deOZA1cO9ZzWwV143U=")
+cl.login(token="TOKEN_LU_CUY")
 cl.loginResult()
 
 ki = LINETCR.LINE()
-ki.login(token="EorZhLjIOIMEG0TVmKO7./V26Y+84iM0vgub4NBmb1W.tCRz4NcKhmbe5hZ0r+nDJ0lFQjKzINnIIqqmb9EDzgE=")
+ki.login(token="TOKEN_LU_CUY")
 ki.loginResult()
 
 ki2 = LINETCR.LINE()
-ki2.login(token="Eok53O9FZWlvtPmth709.fbMcAjl5m9eOdy9zPiwPkq.aQyGmk5UULBZCxeauFDqhfRHFVObueNX8jYgUEGoDSM=")
+ki2.login(token="TOKEN_LU_CUY")
 ki2.loginResult()
 
 ki3 = LINETCR.LINE()
-ki3.login(token="Eo1vf1lXLZH02FuJ8wG0.lhi7kD0Il/p2V3aWteDIma.gqe50uJ9qJWfZ4KG/sFu4q8RsxsTGRsdFSzgP8Pqjjo=")
+ki3.login(token="TOKEN_LU_CUY")
 ki3.loginResult()
 
 ki4 = LINETCR.LINE()
-ki4.login(token="EoFAQJUSh5tMe416bU44.MkwRahR9ZiUNsJo3ElXL9a.iQbMEtXyocZ3fvjqB1VEqtEb56/XAwsosWsytI9QWjc=")
+ki4.login(token="TOKEN_LU_CUY")
 ki4.loginResult()
 
 ki5 = LINETCR.LINE()
-ki5.login(token="EoJFubKcGfudx0LgDane.+urLDlQgcsoUTdJjm8G2ZG.JtEOZaKm0YFq2SY/WNn0osWJciVuchlV/vl276YB9t8=")
+ki5.login(token="TOKEN_LU_CUY")
 ki5.loginResult()
 
 print "login success"
@@ -38,7 +38,7 @@ helpMessage ="""┠═════════════
 ┠ ☞ /tag→/kill→/set
 ┠ ☞ /lurk→/kers
 ┠ ☞ Copy @→Backup
-┠ ☞ Bot Like→Like emen
+┠ ☞ Bot Like→Like temen
 ┠ ☞ /admadd @→/admlist
 ┠ ☞ /admremove @
 ┠ ☞ Creator
