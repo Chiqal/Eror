@@ -1,5 +1,5 @@
 Syndicate3.py
-Self 1 Assist 2
+Self 1 Assist 5
 ____________________
 Bye: Chiqal Adiksa
 ____________________
